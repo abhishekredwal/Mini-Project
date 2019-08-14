@@ -29,7 +29,13 @@ Every screen has three types of tickets which are Platinum, Gold and Silver. Use
 
 >  **CRUD operations**
 
-Admin can add new show, delete shows and also can update shows in a theatre.
+Admin can add new show, delete shows and also can update shows in a theatre. 
+
+## Working for perfection
+
+![Still working! Give us some time!](https://i.imgur.com/k9GyXLC.gif)
+We are working to make this project more perfect and introduce some more features. We will be using firebase to store images and database. Also we are working on some of the security issues.
+
 
 ## Interface
 
