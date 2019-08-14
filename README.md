@@ -11,19 +11,25 @@ Admin can login using username and password. He/She can add movie show databases
 
 
 ## Important Functionalities in Project
-> 1. Register
+>  **Register**
 
 Users can register using email-id. The data will be stored in the back-end. Form validation is done using *Java validation package(see code)*. Java database connection *(JDBC)* is done in registration servlet.
-> 1. Login
+
+>  **Login**
 
 Users can login using registered email-id and password. Validation of credentials are done in *login servlet* where JDBC is done.
 
-> 1. Form Validation
+>  **Form Validation**
 
 Java validation package has been created which takes care of form validation. Validation of name, email-id and password is done.
 
-> 1. Booking
-> 1. Add New Shows
+>  **Booking**
+
+Every screen has three types of tickets which are Platinum, Gold and Silver. User can choose one or more ticket(s) and according to it the bill will be created. The booking method has some flaws we are working on it.
+
+>  **CRUD operations**
+
+Admin can add new show, delete shows and also can update shows in a theatre.
 
 ## Interface
 
