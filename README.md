@@ -21,6 +21,9 @@
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/latestmovies.png?alt=media&token=0b065382-9fa2-4e2a-8b33-a5391ccef3af" alt="Latest Movies" />](https://console.firebase.google.com)
 
+> Booking Page
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/booking.png?alt=media&token=6c69a3fe-9120-45eb-9344-16573c1f3bba" alt="Booking" />](https://console.firebase.google.com)
 
 
 ## Backend
@@ -45,6 +48,7 @@
 > JavaScript
 
 [<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JS" width="100px;" />](https://worldvectorlogo.com/logo/javascript)
+
 
 ## Contributors
 
