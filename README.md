@@ -11,5 +11,4 @@
 
 > JavaScript
 
-![JavaScript](https://cdn.worldvectorlogo.com/logos/javascript.svg)
 
