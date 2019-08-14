@@ -1,10 +1,12 @@
 # Movie Ticket Booking Mini Project
 
 ## Introduction
-> **User: Customer** __
+> **User: Customer**
+
 This is a *Movie Ticket Booking Platform (Web Apllication)*. Users will be able to Register, Login and browse though the latest relaeased movies and book tickets. They will also be able to see upcoming movies which are soon to be released.
 
-> **User: Admin** __
+> **User: Admin** 
+
 Admin can login using username and password. He/She can add movie show databases, add shows, delete shows and update shows. Basically all the CRUD operations can be performed by admin.
 
 
