@@ -31,7 +31,7 @@ Every screen has three types of tickets which are Platinum, Gold and Silver. Use
 
 Admin can add new show, delete shows and also can update shows in a theatre. 
 
-## Working for perfection
+## Working towards perfection
 
 ![Still working! Give us some time!](https://i.imgur.com/k9GyXLC.gif)
 
