@@ -13,6 +13,11 @@
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/login.png?alt=media&token=831c4df3-3495-434f-bd1b-362f8cb3e399" alt="Login" />](https://console.firebase.google.com)
 
+> Register Page
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/register.png?alt=media&token=1ddced00-830a-44c0-a901-3380bca23e7b" alt="Register" />](https://console.firebase.google.com)
+
+
 ## Backend
 > Java
 
