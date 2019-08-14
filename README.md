@@ -25,7 +25,7 @@ Java validation package has been created which takes care of form validation. Va
 
 >  **Booking**
 
-Every screen has three types of tickets which are Platinum, Gold and Silver. User can choose one or more ticket(s) and according to it the bill will be created. The booking method has some flaws and we are working on it.
+Every screen has three types of tickets which are Platinum, Gold and Silver. User can choose one or more ticket(s) and according to it the bill will be generated. The booking method has some flaws and we are working on it.
 
 >  **CRUD operations**
 
