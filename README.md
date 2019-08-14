@@ -17,6 +17,11 @@
 
 [<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/register.png?alt=media&token=1ddced00-830a-44c0-a901-3380bca23e7b" alt="Register" />](https://console.firebase.google.com)
 
+> Latest Movies Page
+
+[<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/latestmovies.png?alt=media&token=0b065382-9fa2-4e2a-8b33-a5391ccef3af" alt="Latest Movies" />](https://console.firebase.google.com)
+
+
 
 ## Backend
 > Java
