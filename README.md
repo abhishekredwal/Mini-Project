@@ -35,7 +35,7 @@ Admin can add new show, delete shows and also can update shows in a theatre.
 
 ![Still working! Give us some time!](https://i.imgur.com/k9GyXLC.gif)
 
-We are working to make this project more perfect and introduce some more features. We will be using firebase to store images and database. Also we are working on some of the security issues.
+We are working to make this project more perfect and introduce some more features. We will be using firebase to store images and database. Also we are working on some of the security issues. Some of the things in project are not dynamic which is to rectified.
 
 
 ## Interface
