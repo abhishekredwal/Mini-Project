@@ -30,3 +30,11 @@
 > JavaScript
 
 [<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JS" width="100px;" />](https://worldvectorlogo.com/logo/javascript)
+
+## Contributors
+
+| Name |
+| ----- |
+| Rutvik Kulkarni |
+| Rajat Marathe |
+| Vishal Mourya |
