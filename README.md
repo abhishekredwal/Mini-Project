@@ -1,4 +1,4 @@
-# MoVie Ticket Booking Mini Project
+# Movie Ticket Booking Mini Project
 
 ## Important Functionalities in Project
 1. Register
