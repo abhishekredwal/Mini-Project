@@ -66,9 +66,15 @@ Java-Servlet is the middle agent between databases and frontend.
 
 > **MySql**
 
-[<img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="HTML" width="100px;" />](https://worldvectorlogo.com/logo/mysql)
+[<img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="MySql" width="100px;" />](https://worldvectorlogo.com/logo/mysql)
 
 MySql is used as database.
+
+> **Firebase**
+
+[<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="100px;" />](https://worldvectorlogo.com/logo/firebase-1)
+
+Firebase is not extensively used. But as mentioned earlier we are going to use firebase to make project even more perfect and dynamic.
 
 ## Technologies used for Frontend
 > **HTML**
