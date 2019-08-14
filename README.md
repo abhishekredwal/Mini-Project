@@ -33,8 +33,8 @@
 
 ## Contributors
 
-| Name |
-| ----- |
-| Rutvik Kulkarni |
-| Rajat Marathe |
-| Vishal Mourya |
+| Name | Github |
+| ----- | ------ |
+| Rutvik Kulkarni | https://github.com/Rutvik2598 | 
+| Rajat Marathe | https://github.com/rajatrmarathe |
+| Vishal Mourya | https://github.com/weshall13 |
