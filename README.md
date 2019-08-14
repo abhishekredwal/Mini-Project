@@ -11,4 +11,4 @@
 
 > JavaScript
 
-[<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="NodeJS" width="100px;" />](https://worldvectorlogo.com/logo/javascript)
+![<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="NodeJS" width="100px;" />](https://worldvectorlogo.com/logo/javascript)
