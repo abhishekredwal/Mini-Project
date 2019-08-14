@@ -13,9 +13,15 @@ Admin can login using username and password. He/She can add movie show databases
 ## Important Functionalities in Project
 > 1. Register
 
-Users will be able to register using email-id. The data will be stored in the back-end. Form validation is done using *Java validation Package(see code)*.
+Users can register using email-id. The data will be stored in the back-end. Form validation is done using *Java validation package(see code)*. Java database connection *(JDBC)* is done in registration servlet.
 > 1. Login
+
+Users can login using registered email-id and password. Validation of credentials are done in *login servlet* where JDBC is done.
+
 > 1. Form Validation
+
+Java validation package has been created which takes care of form validation. Validation of name, email-id and password is done.
+
 > 1. Booking
 > 1. Add New Shows
 
