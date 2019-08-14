@@ -3,12 +3,12 @@
 ## Frontend
 > HTML
 
-![HTML](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png)
+[<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" width="100px;" />](https://worldvectorlogo.com/logo/html5)
 
 > CSS
 
-
+[<img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS" width="100px;" />](https://worldvectorlogo.com/logo/css-5)
 
 > JavaScript
 
-![<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="NodeJS" width="100px;" />](https://worldvectorlogo.com/logo/javascript)
+[<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JS" width="100px;" />](https://worldvectorlogo.com/logo/javascript)
