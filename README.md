@@ -10,13 +10,12 @@ This is a *Movie Ticket Booking Platform (Web Apllication)*. Users will be able 
 Admin can login using username and password. He/She can add movie show databases, add shows, delete shows and update shows. Basically all the CRUD operations can be performed by admin.
 
 
-
 ## Important Functionalities in Project
-1. Register
-1. Login
-1. Form Validation
-1. Booking
-1. Add New Shows
+> 1. Register
+> 1. Login
+> 1. Form Validation
+> 1. Booking
+> 1. Add New Shows
 
 ## Interface
 
@@ -37,7 +36,7 @@ Admin can login using username and password. He/She can add movie show databases
 [<img src="https://firebasestorage.googleapis.com/v0/b/tixflix-18877.appspot.com/o/booking.png?alt=media&token=6c69a3fe-9120-45eb-9344-16573c1f3bba" alt="Booking" />](https://console.firebase.google.com)
 
 
-## Backend
+## Technologies used for Backend
 > **Java**
 
 [<img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="HTML" width="100px;" />](https://worldvectorlogo.com/logo/java-4)
@@ -50,7 +49,7 @@ Java-Servlet is the middle agent between databases and frontend.
 
 MySql is used as database.
 
-## Frontend
+## Technologies used for Frontend
 > **HTML**
 
 [<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML" width="100px;" />](https://worldvectorlogo.com/logo/html5)
