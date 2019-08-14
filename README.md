@@ -2,6 +2,48 @@
 
 ## Important Functionalities in Project
 1. Register
+```java
+  String email=request.getParameter("ei");
+			String pw=request.getParameter("pw");
+			HttpSession session=request.getSession();
+			//session.setAttribute("login",null);
+			int flag=0;
+			Connection con=null;
+			Statement st=null;
+			ResultSet rs=null;
+			//HttpSession session=request.getSession();
+			PreparedStatement pr=null;
+			try
+			{
+				Class.forName("com.mysql.jdbc.Driver");
+				con=DriverManager.getConnection("jdbc:mysql://localhost/moviedb?"+"user=root&password=root");
+				System.out.println("After Connection");
+				st=con.createStatement();
+				rs=st.executeQuery("Select * from customer");
+				while(rs.next())
+				{
+					//System.out.println(rs.getString(1)+rs.getString(3)+email+pw);
+					if(rs.getString(1).equals(email) && rs.getString(3).equals(pw))
+					{
+						session.setAttribute("login",email);
+						flag=1;
+						response.sendRedirect("home.jsp");
+						break;
+					}				
+				}
+				if(flag==0)
+				{
+					response.sendRedirect("loginfail.jsp");
+				}
+				
+			}
+			catch(Exception e)
+			{
+				System.out.println(e);
+			}
+			
+		}
+```
 1. Login
 1. Form Validation
 1. Booking
