@@ -3,7 +3,7 @@
 ## Introduction
 > **User: Customer**
 
-This is a *Movie Ticket Booking Platform (Web Apllication)*. Users will be able to Register, Login and browse though the latest relaeased movies and book tickets. They will also be able to see upcoming movies which are soon to be released.
+This is a *Movie Ticket Booking Platform (Web Apllication)*. Users will be able to Register, Login and browse though the latest released movies and book tickets. They will also be able to see upcoming movies which are soon to be released.
 
 > **User: Admin** 
 
